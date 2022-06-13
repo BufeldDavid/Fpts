@@ -89,7 +89,7 @@
 }
 .header{
     width: 100%;
-    background-image: url(../img/photo1.png);
+    background-image: url(img/photo1.png);
     height: 100vh;
     background-size: cover;
     background-position-x: center;
@@ -373,7 +373,7 @@
     font-family: sans-serif;
 }
 .footer{
-    background-image: url(../img/FooterBeckground.png);
+    background-image: url(img/FooterBeckground.png);
     display: flex;
     justify-content: space-around;
 }
